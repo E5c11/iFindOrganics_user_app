@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">i Find Organics</string>
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="action_settings">Settings</string>
+    <string name="find_me">! Tap to Find Me !</string>
+    <string name="app_slogan">Let health find you</string>
+
+    <string-array name="menu">
+        <item>Home</item>
+        <item>StoreDirectory</item>
+        <item>Map</item>
+        <item>Categories</item>
+        <item>Markets</item>
+    </string-array>
+
+    <string-array name="bus_details">
+        <item>businessProducts</item>
+        <item>businessDes</item>
+        <item>businessLocation</item>
+        <item>businessHours</item>
+        <item>businessDelivery</item>
+        <item>businessNumber</item>
+        <item>businessWebsite</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
